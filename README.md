@@ -51,4 +51,4 @@ The output directory and filenames can be customized in the script.
 
 Submit any issues or questions by raising an issue in this repository.
 
-Replace `<repository-url>` with the actual GitHub repository URL after uploading.
+ON https://github.com/varadraj6055/AI-Video-and-Image-Generation 
